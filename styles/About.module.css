@@ -1,0 +1,12 @@
+.container {
+  padding: 0 30vw;
+  color: white;
+}
+
+.container div h1 {
+  text-align: center;
+}
+
+.container div p {
+  font-size: 1.5rem;
+}

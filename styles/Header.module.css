@@ -1,0 +1,42 @@
+.container {
+  background-color: skyblue;
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 50px;
+  align-items: center;
+  color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  font-weight: bold;
+}
+
+.link {
+  font-size: 17px;
+  color: white;
+  text-align: none;
+}
+
+.link:link {
+  text-decoration: none;
+}
+
+.link:visited {
+  text-decoration: none;
+}
+
+.link1:hover {
+  text-decoration: none;
+}
+
+.link:active {
+  text-decoration: none;
+}
+
+.title {
+  cursor: pointer;
+}

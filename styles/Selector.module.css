@@ -1,0 +1,15 @@
+.selector {
+  color: white;
+  background-color: transparent !important;
+  border: 2px solid white;
+}
+
+.selector:focus {
+  border: 2px solid white;
+}
+
+.selector option {
+  color: black;
+  background-color: rgb(109, 169, 192);
+  color: white;
+}
